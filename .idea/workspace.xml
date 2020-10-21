@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4076f19e-d14b-4119-a4fe-c6381dad8c3f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ijMKqC6QlqACLHOoEaesMofWg5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="telebot" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4076f19e-d14b-4119-a4fe-c6381dad8c3f" name="Default Changelist" comment="" />
+      <created>1602416494749</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602416494749</updated>
+      <workItem from="1602416499741" duration="7579000" />
+      <workItem from="1602518898517" duration="1134000" />
+      <workItem from="1602570463283" duration="398000" />
+      <workItem from="1602698449605" duration="767000" />
+      <workItem from="1602779360665" duration="305000" />
+      <workItem from="1602843207121" duration="6107000" />
+      <workItem from="1603022106699" duration="7962000" />
+      <workItem from="1603108288331" duration="1188000" />
+      <workItem from="1603191154748" duration="3825000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="244" width="1356" height="314" key="#SQL_Dialects" timestamp="1602417488634">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="0" y="244" width="1356" height="314" key="#SQL_Dialects/0.27.1366.741@0.27.1366.741" timestamp="1602417488634" />
+    <state x="278" y="58" width="998" height="710" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602417453480">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="278" y="58" width="998" height="710" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.741@0.27.1366.741" timestamp="1602417453480" />
+    <state width="1320" height="163" key="GridCell.Tab.0.bottom" timestamp="1603205970343">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="163" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1603205970343" />
+    <state width="1320" height="163" key="GridCell.Tab.0.center" timestamp="1603205970341">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="163" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1603205970341" />
+    <state width="1320" height="163" key="GridCell.Tab.0.left" timestamp="1603205970340">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="163" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1603205970340" />
+    <state width="1320" height="163" key="GridCell.Tab.0.right" timestamp="1603205970342">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="163" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1603205970342" />
+    <state x="582" y="282" width="362" height="268" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1602445327224">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="582" y="282" width="362" height="268" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.27.1366.741@0.27.1366.741" timestamp="1602445327224" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1603194291095">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1603194291095" />
+    <state x="408" y="304" width="540" height="193" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1602416907111">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="408" y="304" width="540" height="193" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.27.1366.741@0.27.1366.741" timestamp="1602416907111" />
+  </component>
+</project>
